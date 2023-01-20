@@ -1,3 +1,9 @@
+# when calling function, put your prefered parameters in.
+# for roomnum, put the intiger number of bedrooms you want in the entire apartment.
+# for location, put in "East", "West", or "North" based on what side of campus you prefer.
+# for floor, put the highest floor you would be willing to live on as an intiger.
+# for laundry, put True if you care if laundry is in your building, False otherwise.
+
 def GTApartmentSelector(csv, roomnum, location, floor, laundry):
     import requests
     afile = open(csv, 'r')

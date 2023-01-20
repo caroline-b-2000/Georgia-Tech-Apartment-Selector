@@ -1,0 +1,41 @@
+Building,Apartment Capacities,Side of Campus,Floors,Laundry in Building
+Center Street North,4,West,5,True
+Center Street South,4,West,3,False
+Crecine,3,West,5,True
+Crecine,4,West,5,True
+Eighth Street East,2,West,4,False
+Eighth Street East,4,West,4,False
+Eighth Street East,6,West,4,False
+Eighth Street South,2,West,4,False
+Eighth Street South,4,West,4,False
+Eighth Street South,6,West,4,False
+Eigth Street West,2,West,4,True
+Eigth Street West,4,West,4,True
+Eigth Street West,6,West,4,True
+Goldin House,1,East,3,True
+Graduate Living Center,3,North,6,True
+Graduate Living Center,4,North,6,True
+Gray House,1,East,3,True
+Hayes House,1,East,3,True
+Maulding,2,West,4,True
+Maulding,4,West,4,True
+Maulding,6,West,4,True
+Nelson Shell,2,West,4,True
+Nelson Shell,3,West,4,True
+Nelson Shell,4,West,4,True
+Nelson Shell,5,West,4,True
+Nelson Shell,6,West,4,True
+Nelson Shell,7,West,4,True
+North Avenue East,4,East,13,True
+North Avenue East,6,East,13,True
+North Avenue South,4,East,8,True
+North Avenue South,6,East,8,True
+North Avenue West,4,East,5,True
+North Avenue West,6,East,5,True
+North Avenue North,3,East,10,True
+North Avenue North,4,East,10,True
+North Avenue North,6,East,10,True
+Stein House,1,East,3,True
+Zbar,2,West,4,False
+Zbar,4,West,4,False
+Zbar,6,West,4,False
